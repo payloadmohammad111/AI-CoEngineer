@@ -37,7 +37,7 @@ It combines AI-powered requirements analysis, design, testing, project managemen
 ## 📦 Installation (Dev Mode)
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/ai-coengineer.git
+git clone https://github.com/payloadmohammad111/ai-coengineer.git
 cd ai-coengineer
 
 # Backend setup
